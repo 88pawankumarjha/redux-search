@@ -185,29 +185,3 @@ License
 redux-search is available under the MIT License.
 
 
-
-________________________________________
-
-23 - 5:30
-6
-
-hotel -- 12 check in
-
-75% pay
-
-10 clock -- city tour -- 3 hrs
-
-back to hotel
-
-garden by the bay -- till night
-
-24th -santosa 
-
-25th universal -- 6 pm close
-hotel - check out
-
-12:20 am
-
-sea acquarium?
-merlyn tiger?
-bird park, night safari?
